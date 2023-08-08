@@ -12,3 +12,8 @@ echo "check"
 echo "doone"
 echo "test"
 
+#This is to practise Git
+
+echo "practice"
+
+
