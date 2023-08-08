@@ -1,5 +1,5 @@
 #!/bin/bash
-#bash scripting
+#bash scripting "This helps to understand the scripting"
 #This is bash scripting
 echo "Hello world"
 echo " Hello Anitha"
