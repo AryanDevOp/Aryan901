@@ -8,4 +8,7 @@ echo " Hello Anitha"
 
 #just checking
 
-echo "shceck"
+echo "check"
+echo "doone"
+echo "test"
+
